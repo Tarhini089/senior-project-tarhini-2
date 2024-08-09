@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F39949F-737E-41E4-AE18-460C9A5CC729}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>senior_project_tarhini</RootNamespace>
+    <AssemblyName>senior-project-tarhini</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\tetoteo\packages\Guna.UI2.WinForms.2.0.4.6\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DriverList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverList.Designer.cs">
+      <DependentUpon>DriverList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashboard.Designer.cs">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments.Designer.cs">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expenses.Designer.cs">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Drivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Drivers.Designer.cs">
+      <DependentUpon>Drivers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriceList.Designer.cs">
+      <DependentUpon>PriceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clients_pmt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clients_pmt.Designer.cs">
+      <DependentUpon>clients_pmt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Daily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily.Designer.cs">
+      <DependentUpon>Daily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agents.Designer.cs">
+      <DependentUpon>Agents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DriverList.resx">
+      <DependentUpon>DriverList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashboard.resx">
+      <DependentUpon>dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expenses.resx">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Drivers.resx">
+      <DependentUpon>Drivers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriceList.resx">
+      <DependentUpon>PriceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clients_pmt.resx">
+      <DependentUpon>clients_pmt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily.resx">
+      <DependentUpon>Daily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agents.resx">
+      <DependentUpon>Agents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture55.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lofo.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lofo1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gggggggggggggggggggggggg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7218134_newspaper_news_daily_business_media_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6558320.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8666777_chevron_right_arrow_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6071827_employee_labour_people_teams_worker_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61816_business_buyers_clients_users_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6071826_delivery_food_meal_order_food delivery_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2142696_app_items_list_presentation_programs_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3934634_basket_items_sale_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2142696_app_items_list_presentation_programs_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3934634_basket_items_sale_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3668846_money_cash_finance_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3668856_car_fuel_gas_station_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100038_switch_power_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\299068_add_sign_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2303130_add_create_new_plus_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9165407_file_invoice_document_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657764_circles_line_neon_payments_paypal_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\73064_cash_crysigns_base_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\299068_add_sign_icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\299068_add_sign_icon %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_99.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_991.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\172480_home_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61816_business_buyers_clients_users_icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41445120-clients-icône.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41445120-clients-icône_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3090108.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30901081.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expenses-rubber-stamp-vector-12744824.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41445120-clients-icône_21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-logo-signage-new-item-text-label-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-new-item-poster-png-image_3834274.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-logo-signage-new-item-text-label-logo_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-logo-signage-new-item-text-label-logo_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-logo-signage-new-item-text-label-logo_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_74994613_bevRKFu5I677Irq7s9C5IBhE61U9OPrq.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b8ab5f1d7497ed7a684fbc458b141383.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_by_url.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57292284-client-member-icon-glossy-cyan-blue-round-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clients-image-icon-207271.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clients-image-icon-207271-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1282962_add_hide_minus_remove_icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
