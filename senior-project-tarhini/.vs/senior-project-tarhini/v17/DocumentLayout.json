@@ -1,106 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\",
+  "WorkspaceRootPath": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|c:\\users\\youss\\onedrive\\\u00E1rea de trabalho\\asus_tarhini\\senior-project-tarhini\\senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|c:\\users\\youss\\onedrive\\\u00E1rea de trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|c:\\users\\youss\\onedrive\\\u00E1rea de trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\clients_pmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\pricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\payments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F39949F-737E-41E4-AE18-460C9A5CC729}|senior-project-tarhini\\senior-project-tarhini.csproj|solutionrelative:senior-project-tarhini\\driverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,37 +110,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Clients.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Clients.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.883Z"
+              "DocumentIndex": 7,
+              "Title": "Daily.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Daily.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Daily.cs",
+              "ViewState": "AQIAAMoFAAAAAAAAAAAAAN0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Drivers.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Drivers.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Expenses.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
+              "DocumentIndex": 11,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
               "RelativeDocumentMoniker": "senior-project-tarhini\\Expenses.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs [Design]",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Expenses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:04:22.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Items.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Payments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Clients.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Clients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Program.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Program.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Program.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:05.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Expenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Expenses.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs [Design]",
               "RelativeToolTip": "senior-project-tarhini\\Expenses.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T09:58:04.884Z",
@@ -148,46 +201,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Items.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Items.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Items.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Items.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Payments.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Expenses.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Expenses.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Expenses.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Expenses.cs",
-              "ViewState": "AQIAACMBAAAAAAAAAAAAACwBAAANAAAA",
+              "DocumentIndex": 10,
+              "Title": "Drivers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Drivers.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Drivers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:58:04.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T09:58:04.883Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Daily.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
               "RelativeDocumentMoniker": "senior-project-tarhini\\Daily.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs [Design]",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs [Design]",
               "RelativeToolTip": "senior-project-tarhini\\Daily.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T09:58:04.881Z",
@@ -195,219 +225,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Agents.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Agents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriceList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\PriceList.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\PriceList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Login.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\DriverList.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\DriverList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\dashboard.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs [Design]",
+              "RelativeToolTip": "senior-project-tarhini\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\dashboard.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
+              "RelativeToolTip": "senior-project-tarhini\\dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Daily.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Daily.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Daily.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Daily.cs",
-              "ViewState": "AQIAAGwEAAAAAAAAAAAtwGkEAABAAAAA",
+              "Title": "Agents.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Agents.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Agents.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv3kAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.Designer.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.Designer.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.Designer.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Payments.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIBZwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Payments.cs",
+              "ViewState": "AQIAAHcDAAAAAAAAAAAmwEkBAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DriverList.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\DriverList.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
+              "RelativeToolTip": "senior-project-tarhini\\DriverList.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PriceList.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\PriceList.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
+              "RelativeToolTip": "senior-project-tarhini\\PriceList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T09:58:04.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Agents.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Agents.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.882Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\PriceList.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs [Design]",
-              "RelativeToolTip": "senior-project-tarhini\\PriceList.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:58:04.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Program.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Program.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Program.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:58:05.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Login.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DriverList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\DriverList.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\dashboard.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\hp\\Desktop\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\dashboard.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\dashboard.cs",
-              "RelativeToolTip": "senior-project-tarhini\\dashboard.cs",
-              "ViewState": "AQIAAGcCAAAAAAAAAAAWwHUCAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Agents.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Agents.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Agents.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Agents.cs",
-              "ViewState": "AQIAADcDAAAAAAAAAIA2wEgDAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Payments.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.Designer.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.Designer.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.Designer.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Payments.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2024-08-02T09:58:04.893Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Payments.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Payments.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Payments.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Payments.cs",
-              "ViewState": "AQIAAEMDAAAAAAAAAAAgwFkDAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DriverList.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\DriverList.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\DriverList.cs",
-              "RelativeToolTip": "senior-project-tarhini\\DriverList.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAWwDoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.894Z"
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Clients.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Clients.cs",
+              "ViewState": "AQIAAHYCAAAAAAAAAAAgwFEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "PriceList.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\PriceList.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\PriceList.cs",
-              "RelativeToolTip": "senior-project-tarhini\\PriceList.cs",
-              "ViewState": "AQIAABwAAAAAzczMzMwUwBYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:58:04.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Clients.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Clients.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Clients.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Clients.cs",
-              "ViewState": "AQIAAGkCAAAAAAAAAAD4v3YCAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
               "RelativeDocumentMoniker": "senior-project-tarhini\\Login.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Login.cs",
               "RelativeToolTip": "senior-project-tarhini\\Login.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwCAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "clients_pmt.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\clients_pmt.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs",
-              "RelativeToolTip": "senior-project-tarhini\\clients_pmt.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.897Z"
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Drivers.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
-              "RelativeDocumentMoniker": "senior-project-tarhini\\Drivers.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
-              "RelativeToolTip": "senior-project-tarhini\\Drivers.cs",
-              "ViewState": "AQIAAJYBAAAAAAAAAAAjwKcBAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.898Z"
+              "Title": "clients_pmt.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\clients_pmt.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\clients_pmt.cs",
+              "RelativeToolTip": "senior-project-tarhini\\clients_pmt.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAnwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
+              "RelativeDocumentMoniker": "senior-project-tarhini\\Drivers.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Drivers.cs",
+              "RelativeToolTip": "senior-project-tarhini\\Drivers.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswKwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Items.cs",
-              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
               "RelativeDocumentMoniker": "senior-project-tarhini\\Items.cs",
-              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\Asus_Tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\\u00C1rea de Trabalho\\senior-project-tarhini\\senior-project-tarhini\\senior-project-tarhini\\Items.cs",
               "RelativeToolTip": "senior-project-tarhini\\Items.cs",
-              "ViewState": "AQIAAL4BAAAAAAAAAAAjwM8BAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-02T09:58:04.899Z"
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:58:04.899Z",
+              "EditorCaption": ""
             }
           ]
         }

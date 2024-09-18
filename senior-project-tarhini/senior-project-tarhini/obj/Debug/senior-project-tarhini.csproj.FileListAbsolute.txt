@@ -21,3 +21,25 @@ C:\Users\hp\Desktop\senior-project-tarhini\senior-project-tarhini\obj\Debug\seni
 C:\Users\hp\Desktop\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.PriceList.resources
 C:\Users\hp\Desktop\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.DriverList.resources
 C:\Users\hp\Desktop\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.dashboard.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\bin\Debug\senior-project-tarhini.exe.config
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\bin\Debug\senior-project-tarhini.exe
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\bin\Debug\senior-project-tarhini.pdb
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-project-tarhini.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.DriverList.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.dashboard.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Payments.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Expenses.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Drivers.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.PriceList.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Items.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Login.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.clients_pmt.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Daily.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Agents.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Clients.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior_project_tarhini.Properties.Resources.resources
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-project-tarhini.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-project-tarhini.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-p.DDBC247A.Up2Date
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-project-tarhini.exe
+C:\Users\youss\OneDrive\Área de Trabalho\senior-project-tarhini\senior-project-tarhini\senior-project-tarhini\obj\Debug\senior-project-tarhini.pdb

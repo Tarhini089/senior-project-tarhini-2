@@ -14,7 +14,7 @@ namespace senior_project_tarhini
     public partial class Login : Form
     {
 
-        private const string connectionString = "Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True";
+        private const string connectionString = "Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True";
         public Login()
         {
             InitializeComponent();
@@ -64,6 +64,11 @@ namespace senior_project_tarhini
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

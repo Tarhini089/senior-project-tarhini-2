@@ -9,7 +9,7 @@ namespace senior_project_tarhini
     {
         private bool sidebarExpand = true;
         private string connection;
-        private readonly string connectionString = "Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True";
+        private readonly string connectionString = "Data Source=-TARHINIALI;Initial Catalog=senior;Integrated Security=True";
         public Agents()
         {
             InitializeComponent();
@@ -138,7 +138,7 @@ namespace senior_project_tarhini
 
         private void Form6_Load(object sender, EventArgs e)
         {
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+            using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
             {
                 try
                 {
@@ -162,7 +162,7 @@ namespace senior_project_tarhini
                     MessageBox.Show("An error occurred: " + ex.Message);
                 }
             }
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+            using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
             {
                 try
                 {

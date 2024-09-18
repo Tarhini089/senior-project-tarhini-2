@@ -15,7 +15,7 @@ namespace senior_project_tarhini
     {
         private bool sidebarExpand = true;
         private string connection;
-        private readonly string connectionString = "Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True";
+        private readonly string connectionString = "Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True";
         public Payments()
         {
             InitializeComponent();
@@ -302,7 +302,7 @@ namespace senior_project_tarhini
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+            using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
             {
                 try
                 {
@@ -327,7 +327,7 @@ namespace senior_project_tarhini
                 }
             }
 
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+            using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
             {
                 try
                 {
@@ -896,6 +896,11 @@ namespace senior_project_tarhini
             dashboard Dashboard = new dashboard();
             Dashboard.Show();
             this.Hide();
+        }
+
+        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
         }
 
 

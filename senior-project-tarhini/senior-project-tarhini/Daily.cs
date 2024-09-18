@@ -22,7 +22,7 @@ namespace senior_project_tarhini
 
         
         private string connection;
-        private readonly string connectionString = "Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True";
+        private readonly string connectionString = "Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True";
 
         
         public object Connection { get; private set; }
@@ -334,8 +334,8 @@ namespace senior_project_tarhini
             //nudQuantity.Enabled = false;
             //dateTimePicker1.Enabled = false;
             //txtDescription.Enabled = false;
-
-            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+                
+            using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
             {
                 try
                 {
@@ -393,7 +393,7 @@ namespace senior_project_tarhini
                 column.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             }
 
-            /* using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-9TFICR1;Initial Catalog=senior;Integrated Security=True"))
+            /* using (SqlConnection conn = new SqlConnection("Data Source=TARHINIALI;Initial Catalog=senior;Integrated Security=True"))
               {
                   try
                   {
